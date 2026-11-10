@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-labelledby="title desc">
+  <title id="title">2FA Market</title>
+  <desc id="desc">A blue shield with a check mark beside the 2FA Market wordmark.</desc>
+  <defs>
+    <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00D4FF"/>
+      <stop offset="1" stop-color="#2F8CFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="180" height="180" rx="42" fill="#070B14" stroke="#193456" stroke-width="3"/>
+  <path d="M110 42 158 61v34c0 31-19 53-48 72-29-19-48-41-48-72V61z" fill="url(#shield)"/>
+  <path d="m89 102 15 15 29-31" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="236" y="111" fill="#F5F9FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2">2FA</text>
+  <text x="355" y="111" fill="#00D4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2">Market</text>
+  <path d="M239 137h390" stroke="#193456" stroke-width="2"/>
+  <text x="240" y="171" fill="#91A8C5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="4">SECURE · SIMPLE · TRUSTED</text>
+</svg>
